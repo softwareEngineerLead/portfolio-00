@@ -1,6 +1,6 @@
 body {
     margin: 0;
-    background-color: blanchedalmond;
+    
     
 }
 
@@ -16,6 +16,7 @@ body {
     padding: 10px;
     box-sizing: border-box;
     font-size: 30px;
+   
 }
 
 .navs {
@@ -24,6 +25,7 @@ body {
     text-decoration: none;
     margin-right: 20px;
     float: right;
+  
 
 }
 
@@ -64,5 +66,22 @@ body {
 
 #services {
 
+    padding: 50px;
+}
+
+
+#contact, #contact-form {
+
+    background-color: rgb(247, 247, 244);
+    padding: 50px;
+}
+
+#footer-area {
+
+    background-color: black;
+    color: crimson;
+    width: 100%;
+    height: 150px;
+    text-align: center;
     padding: 50px;
 }
